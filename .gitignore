@@ -1,0 +1,7 @@
+//Ignore Every
+*
+
+// Except:
+!.gitignore
+!index.html
+!README.md
